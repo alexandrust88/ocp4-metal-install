@@ -1,0 +1,7 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+172.19.78.9 console-openshift-console.apps.lab.ocp.lan
+172.19.78.9 integrated-oauth-server-openshift-authentication.apps.lab.ocp.lan
+172.19.78.9 oauth-openshift.apps.lab.ocp.lan
+172.19.78.9 prometheus-k8s-openshift-monitoring.apps.lab.ocp.lan
+172.19.78.9 grafana-openshift-monitoring.apps.lab.ocp.lan
