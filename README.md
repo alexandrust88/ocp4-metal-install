@@ -132,7 +132,7 @@
 1. Download [config files](https://github.com/ryanhay/ocp4-metal-install) for each of the services
 
    ```bash
-   git clone https://github.com/ryanhay/ocp4-metal-install
+   git clone https://github.com/gautamshel/ocp4-metal-install
    ```
 
 1. OPTIONAL: Create a file '~/.vimrc' and paste the following (this helps with editing in vim, particularly yaml files):
@@ -153,7 +153,7 @@
 
 1. Set a Static IP for OCP network interface `nmtui-edit ens224` or edit `/etc/sysconfig/network-scripts/ifcfg-ens224`
 
-   - **Address**: 192.168.22.1
+   - **Address**: 172.19.78.9
    - **DNS Server**: 127.0.0.1
    - **Search domain**: ocp.lan
    - Never use this network for default route
