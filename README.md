@@ -18,7 +18,7 @@
 
 ## Architecture Diagram
 
-![Architecture Diagram](./diagram/Architecture.png)
+![Architecture Diagram](./diagram/Architecture1.png)
 
 ## Download Software
 
