@@ -2,6 +2,8 @@
 OpenShift 4 Bare Metal Install - User Provisioned Infrastructure (UPI)
 
 # Architecture Diagram
+
+
 # Download Software
 # Prepare the 'Bare Metal' environment
 # Configure Environmental Services
